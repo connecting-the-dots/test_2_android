@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/XNS/FOCUS/Test_2_Android/app/libs/ParseFacebookUtilsV4-1.9.2.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="bab281cc21f6a68152e11ab53b053790ccfd6764">
+        <dex dex="/Users/XNS/FOCUS/Test_2_Android/app/build/intermediates/pre-dexed/debug/ParseFacebookUtilsV4-1.9.2-c67cbf150ca3da18557f8dc3d97b32aad79a9004.jar" />
+    </item>
+    <item
+        jar="/Users/XNS/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/XNS/FOCUS/Test_2_Android/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-e8ee8307e3121babf1c5186648cb5407ba04d946.jar" />
+    </item>
+    <item
+        jar="/Users/XNS/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/XNS/FOCUS/Test_2_Android/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-2dc173dc4d6c9e5de941a5ad6e1c858491f2c7de.jar" />
+    </item>
+    <item
+        jar="/Users/XNS/FOCUS/Test_2_Android/app/libs/Parse-1.9.2.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="fe739334780fe321141e62720822c2d456061899">
+        <dex dex="/Users/XNS/FOCUS/Test_2_Android/app/build/intermediates/pre-dexed/debug/Parse-1.9.2-8de1d6b81561c995d6d8639bfe0115dd7eb52064.jar" />
+    </item>
+    <item
+        jar="/Users/XNS/FOCUS/Test_2_Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/XNS/FOCUS/Test_2_Android/app/build/intermediates/pre-dexed/debug/classes-4c16329aea5a70f87350d7f6967a4f1505228bc8.jar" />
+    </item>
+    <item
+        jar="/Users/XNS/FOCUS/Test_2_Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/XNS/FOCUS/Test_2_Android/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-60fd36471daa8aee0831e96e5fe74c22b2fde996.jar" />
+    </item>
+    <item
+        jar="/Users/XNS/FOCUS/Test_2_Android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="152e1df65212df23a4b5dba0e819e63bca93192c">
+        <dex dex="/Users/XNS/FOCUS/Test_2_Android/app/build/intermediates/pre-dexed/debug/classes-b19f9d8a0f466d0c040a74e1f10125e64e2a8f4d.jar" />
+    </item>
+
+</items>
